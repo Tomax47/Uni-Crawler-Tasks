@@ -3,9 +3,9 @@
 **Name:** Харб Хнейди Тамам
 **Group:** 11-200
 
-This project implements a full-cycle search engine for Russian-language text
+This project implements a full-cycle search engine for Russian language text
+
 <img src="Screenshot From 2026-03-05 23-19-36.png" alt="Search Engine Demo" width="600">
----
 
 ## Project Components
 The system consists of several integrated modules:
