@@ -48,3 +48,6 @@ The system consists of several integrated modules:
 - **Update:** Modified the extraction logic to produce individual `.txt` files for every crawled document.
 - Created separate archives for page-specific tokens and lemmas.
 - Standardized lemma format to: `<lemma> <token1> <token2>...`.
+
+### v5.3 - Glued Words Issue Fix
+- **Update:** Modified the extraction logic to avoid gluing words after removing the HTML tags, and producing non-existing words like `статьислучайный`.
